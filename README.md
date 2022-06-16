@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammad Zamin
+Hi 👋 I 'm Mohammad Zamin Mirzad 
 ===============================
 
 Web developer
