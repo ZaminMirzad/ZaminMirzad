@@ -7,7 +7,7 @@ Web developer
 I have been learning react for the past 5 month and I am very happy about learning it.
 
 *   🌍  I'm based in Turkey
-*   🖥️  See my portfolio at [Portfolio](http://zamin-mirzad.netlify.app/ )
+*   🖥️  See my portfolio at [here](http://zamin-mirzad.netlify.app/ )
 *   ✉️  You can contact me at [mohzamin89@gmail.com](mailto:mohzamin89@gmail.com)
 *   🧠  I'm learning web develpment
 
